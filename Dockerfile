@@ -1,5 +1,6 @@
 # syntax=docker/dockerfile:1
 # webhook
+# checking status on Jenkins
 
 FROM node:lts-alpine
 WORKDIR /app
